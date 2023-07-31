@@ -1,0 +1,31 @@
+footer {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.keyboard-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.keyboard-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d3d6da;
+  border-radius: 10px;
+  width: 8vw;
+  height: 50px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.keyboard-row img {
+  width: 40px;
+  height: 40px;
+}

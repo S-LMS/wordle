@@ -1,0 +1,14 @@
+.head-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+H1 {
+  font-size: 50px;
+  padding-left: 100px;
+}
+.head-title img {
+  width: 50px;
+  height: 50px;
+}
